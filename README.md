@@ -13,6 +13,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket
 
 <h2>Operating Systems Used </h2>
 
@@ -27,26 +28,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="937" alt="Screenshot 2025-03-03 at 1 28 52 PM" src="https://github.com/user-attachments/assets/1e580e04-1a6c-416c-bd8d-ffec0449b02b" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  The end user will submit the ticket in their portal. This will get submitted and the help desk agent will be able to then view the ticket. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="933" alt="Screenshot 2025-03-03 at 1 36 15 PM" src="https://github.com/user-attachments/assets/0d1cb269-a967-4910-af38-8f09a71f4906" />
+<img width="919" alt="Screenshot 2025-03-03 at 1 48 12 PM" src="https://github.com/user-attachments/assets/0ef9be6f-3a51-46a3-a424-3303a2c8243f" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From here, the agent can work the ticket by viewing the ticket, assigning the ticket to the correct agent, department, SLA, etc. The help desk agent will be able to resolve the issue. They can also communicate with the end user who submitted the ticket. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p><img width="919" alt="Screenshot 2025-03-03 at 2 01 07 PM" src="https://github.com/user-attachments/assets/894dce3c-2ca5-4922-b2f4-e1acd8e6e134" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  The ticket is completed and marked resolved by the help desk agent. 
 </p>
 <br />
