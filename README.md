@@ -28,13 +28,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p><img width="937" alt="Screenshot 2025-03-03 at 1 28 52 PM" src="https://github.com/user-attachments/assets/1e580e04-1a6c-416c-bd8d-ffec0449b02b" />
-
+<p>
+  <img width="842" alt="Screenshot 2025-03-18 at 6 25 17 PM" src="https://github.com/user-attachments/assets/dc581762-07fa-4a0e-be63-082dcef0e3e2" />
+  <img width="937" alt="Screenshot 2025-03-03 at 1 28 52 PM" src="https://github.com/user-attachments/assets/1e580e04-1a6c-416c-bd8d-ffec0449b02b" />
 </p>
 <p>
   The end user will submit the ticket in their portal. This will get submitted and the help desk agent will be able to then view the ticket. 
 </p>
 <br />
+<p>
+  Next, log in as John, who will be able to work the ticket.
+</p>
+<p>
+  <img width="960" alt="Screenshot 2025-03-18 at 6 31 09 PM" src="https://github.com/user-attachments/assets/797edc87-9280-4192-bea3-6c88985126b4" />
+</p>
+<p>
+  Here, John can see the ticket that has been submitted by the end user. He 
+</p>
+<br/>
 
 <p><img width="933" alt="Screenshot 2025-03-03 at 1 36 15 PM" src="https://github.com/user-attachments/assets/0d1cb269-a967-4910-af38-8f09a71f4906" />
 <img width="919" alt="Screenshot 2025-03-03 at 1 48 12 PM" src="https://github.com/user-attachments/assets/0ef9be6f-3a51-46a3-a424-3303a2c8243f" />
