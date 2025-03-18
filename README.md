@@ -43,7 +43,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   <img width="960" alt="Screenshot 2025-03-18 at 6 31 09 PM" src="https://github.com/user-attachments/assets/797edc87-9280-4192-bea3-6c88985126b4" />
 </p>
 <p>
-  Here, John can see the ticket that has been submitted by the end user. He 
+  Here, John can see the ticket that has been submitted by the end user.
 </p>
 <br/>
 
@@ -51,7 +51,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="919" alt="Screenshot 2025-03-03 at 1 48 12 PM" src="https://github.com/user-attachments/assets/0ef9be6f-3a51-46a3-a424-3303a2c8243f" />
 </p>
 <p>
-From here, the agent can work the ticket by viewing the ticket, assigning the ticket to the correct agent, department, SLA, etc. The help desk agent will be able to resolve the issue. They can also communicate with the end user who submitted the ticket. 
+From here, the John can work the ticket by viewing the ticket, and assigning the ticket to the correct agent, department, SLA, etc. The help desk agent will be able to resolve the issue. They can also communicate with the end user who submitted the ticket. 
 </p>
 <br />
 
